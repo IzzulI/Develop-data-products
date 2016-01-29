@@ -1,0 +1,9 @@
+name: EquityAnalysis
+account: izzuli
+server: shinyapps.io
+appId: 80822
+bundleId: 361421
+url: https://izzuli.shinyapps.io/EquityAnalysis/
+when: 1454082936.79713
+asMultiple: FALSE
+asStatic: FALSE
