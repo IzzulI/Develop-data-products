@@ -9,6 +9,7 @@ Introduction
 - The application enable the user to see visual presentation of a stock which is chosen by the user 
 - The data of the stock is downloaded from Yahoo Finance website
 - Simple technical analysis like moving average and momentum is added to give user better analysis
+- the code is in the github (https://github.com/IzzulI/Develop-data-products)
 
 Example Output Chart View
 ========================================================
